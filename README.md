@@ -13,7 +13,7 @@ This covers real enrollment paths and real constraints — including what happen
 
 1. [Device Enrollment](./01-device-enrollment/) — Linux, iOS (corporate and BYOD), Windows BYOD (documentation pending)
 2. [Compliance Policies](./02-compliance-policies/) — including Windows Home-edition constraints (documentation pending)
-3. [App Protection Policies](./03-app-protection-policies/) *(documentation pending)*
+3. [App Protection Policies](./03-app-protection-policies/) — *(documentation pending)*
 
 ## Who this is for
 
