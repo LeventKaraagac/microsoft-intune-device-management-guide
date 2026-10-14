@@ -5,7 +5,7 @@ Part of the **Microsoft 365 Security Foundations** series — practical, product
 
 A hands-on guide to enrolling and securing devices across Windows, Linux, and iOS using Microsoft Intune, written for small and medium businesses managing a mixed fleet of personal and corporate-owned devices.
 
-This covers real enrollment paths and real constraints — including what happens when a device runs an edition that doesn't support full compliance management,and how to handle that honestly instead of pretending it isn't a limitation.
+The steps come from hands-on configuration work, not from theory. Where a decision involves a trade-off, such as cost, team size or what's realistic for a small company, the guide calls it out so you can make the right call for your own situation. Microsoft's ecosystem can be intimidating but hopefully this guide will save you some time!
 
 **Disclaimer:** Due to the nature of Intune and Defender's integration, some device management configurations can be found at the Defender repository of this series. See also: [Intune Device Management Guide](https://github.com/LeventKaraagac/microsoft-defender-threat-protection-guide).
 
