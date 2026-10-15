@@ -48,6 +48,9 @@ Set **Mark devices with no compliance policy assigned as** to **Not compliant**.
 
 Give Intune a little time to check each device. Then open the compliance overview report to see which devices are compliant, non-compliant or still being evaluated.
 
+<br>
+<img src="https://i.imgur.com/Pxdxbmk.png" alt="Intune Compliance Policies page with the Create policy option"/>
+<br>
 
 ## Test them
 
