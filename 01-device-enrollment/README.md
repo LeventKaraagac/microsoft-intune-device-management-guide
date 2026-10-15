@@ -31,7 +31,7 @@ These tenant-wide settings decide who can register or join devices, and what hap
 | **Registering user is added as local administrator on the device during Microsoft Entra join** | **None** or **Selected** where you can. Use **All** only if you have a reason | Local admin rights let a user change security settings on their own device |
 
 <br>
-<img src="" alt="Entra ID Device settings page showing the settings for who can join devices, MFA to register or join, maximum devices per user and local administrator options"/>
+<img src="https://i.imgur.com/KSaCsol.png" alt="Entra ID Device settings page showing the settings for who can join devices, MFA to register or join, maximum devices per user and local administrator options"/>
 <br>
 
 Save the settings, then start enrolling devices.
@@ -40,12 +40,12 @@ Save the settings, then start enrolling devices.
 
 ## Check what's already enrolled
 
-Before you add devices, see what the tenant already has.
+Before you add devices, see what the tenant already has. If this is your first time enrolling devices, the Devices section will be empty like in the picture below.
 
 **Where:** Intune admin center > Devices > All devices
 
 <br>
-<img src="" alt="Intune admin center All devices page before any device is enrolled"/>
+<img src="https://i.imgur.com/rsf5BdU.png" alt="Intune admin center All devices page before any device is enrolled"/>
 <br>
 
 Also check **Devices > Manage devices > Configuration** and **Compliance**, to see whether policies already exist. Don't build over them without knowing what they do.
