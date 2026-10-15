@@ -1,4 +1,5 @@
 # Enrolling an Ubuntu Linux Device
+**Last updated:** 15/10/2026
 
 Intune supports Linux devices for **compliance reporting and Conditional Access**. It is not full device management: you can check a Linux machine against a compliance policy and use that result to gate access to Microsoft 365 web apps in the browser. You can't push apps or configuration to it the way you can with Windows.
 
