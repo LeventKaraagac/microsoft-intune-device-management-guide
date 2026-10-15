@@ -1,4 +1,5 @@
 # Enrolling a Windows 11 Home Device
+**Last updated:** 15.10.2026
 
 Many small companies have staff using Windows 11 **Home** laptops. Home can be enrolled in Intune, but it can't be fully Entra-joined and it doesn't support BitLocker or Defender for Endpoint onboarding, so compliance on it is limited. This page shows how to enroll a Home device and what to expect afterwards.
 
