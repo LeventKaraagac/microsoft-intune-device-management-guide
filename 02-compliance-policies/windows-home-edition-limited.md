@@ -1,4 +1,5 @@
 # Windows Compliance Policy for Home Edition (Limited)
+**Last updated:** 15.10.2026
 
 Windows 11 **Home** can enroll in Intune, but it reports fewer signals than Pro, Business or Enterprise. This page builds a policy for Home devices that checks what Home can actually report, and leaves the rest alone so healthy devices aren't flagged by mistake.
 
